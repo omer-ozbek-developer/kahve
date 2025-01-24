@@ -4,6 +4,6 @@
 4-seker
 5-krema
 6-hatasız kul
-
+7-vscode a gecildi
 
 
