@@ -5,5 +5,5 @@
 5-krema
 6-hatasız kul
 7-vscode a gecildi
-
+8-yeni kodlar
 
